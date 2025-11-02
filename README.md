@@ -22,8 +22,11 @@ We also incorporate egocentric cues, i.e. objects in hands, to find acting objec
 
 
 ### Data
-We provide start and end point for all the collision segments along with the video id for respective datasets. You can use these information to extract the collision sources from the corresponding video. 
-For validation, we have provide the image frame along with the segmenation mask in the links below.
+We provide start (`start_timestamp`) and end (`stop_timestamp`) point for all the collision segments along with the `annotation_id` for respective datasets in the folder `annotations`.
+You can use these information to extract the collision segment from the corresponding video. 
+
+
+For validation, we have provide the image frame along with the segmenation mask for both the dataset in the links below.
 | Dataset   | Download Link |
 |-----------|:--------------|
 | EPIC-CS3  | [gdrive-epic-cs3-data](https://drive.google.com/drive/folders/1bdXCFJDg9xJ989vZLdH5eifShadUCHKK?usp=sharing) |
