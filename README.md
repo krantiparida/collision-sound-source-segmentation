@@ -38,7 +38,7 @@ If using this work please consider citing our paper.
 ```
 @InProceedings{Parida_2026_CVPR,
     author    = {Parida, Kranti Kumar and Emara, Omar and Doughty, Hazel and Damen, Dima},
-    title     = {Segmenting Collision Sound Sources in Egocentric Video},
+    title     = {Segmenting Collision Sound Sources in Egocentric Videos},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
     month     = {June},
     year      = {2026},
