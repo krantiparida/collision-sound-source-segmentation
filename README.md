@@ -36,11 +36,13 @@ For validation, we have provide the image frame along with the segmenation mask 
 ## Citation
 If using this work please consider citing our paper.
 ```
-@InProceedings{parida2025segmenting,
-title = {Segmenting Collision Sound Sources in Egocentric Videos},
-author = {Parida, Kranti Kumar and Emara, Omar and Doughty, Hazel and Damen, Dima},
-booktitle={ArXiv},
-year = {2025},
+@InProceedings{Parida_2026_CVPR,
+    author    = {Parida, Kranti Kumar and Emara, Omar and Doughty, Hazel and Damen, Dima},
+    title     = {Segmenting Collision Sound Sources in Egocentric Video},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2026},
+    pages     = {7524-7534}
 }
 ```
 
